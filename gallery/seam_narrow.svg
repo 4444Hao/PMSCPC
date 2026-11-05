@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="843" viewBox="0 0 960 843" role="img" aria-labelledby="title description">
+<title id="title">Periodic multi-size circle packing</title>
+<desc id="description">True-scale periodic cell with nominal diameters, counts, area fraction and minimum periodic surface gap. Geometry only.</desc>
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#253442}.muted{fill:#627382}.small{font-size:13px}.normal{font-size:16px}</style>
+<defs><clipPath id="cell"><rect x="74" y="88" width="484.714844" height="620.000000"/></clipPath></defs>
+<text x="74.0000" y="35.0000" font-size="24" text-anchor="start" font-weight="bold">Periodic multi-size circle packing</text>
+<text x="74.0000" y="61.0000" font-size="13" text-anchor="start" >Nominal geometry | lengths in nm | not a global-optimum certificate</text>
+<rect x="74" y="88" width="484.714844" height="620.000000" fill="#FAFCFD"/>
+<g clip-path="url(#cell)">
+<circle cx="279.095104" cy="586.684355" r="108.750125" fill="#A373AA" fill-opacity="0.18" stroke="#A373AA" stroke-width="1.7"/>
+<circle cx="36.737682" cy="586.684355" r="108.750125" fill="#A373AA" fill-opacity="0.18" stroke="#A373AA" stroke-width="1.7"/>
+<circle cx="521.452526" cy="586.684355" r="108.750125" fill="#A373AA" fill-opacity="0.18" stroke="#A373AA" stroke-width="1.7"/>
+<circle cx="400.273815" cy="276.684355" r="108.750125" fill="#A373AA" fill-opacity="0.18" stroke="#A373AA" stroke-width="1.7"/>
+<circle cx="157.916393" cy="276.684355" r="108.750125" fill="#A373AA" fill-opacity="0.18" stroke="#A373AA" stroke-width="1.7"/>
+<circle cx="642.631237" cy="276.684355" r="108.750125" fill="#A373AA" fill-opacity="0.18" stroke="#A373AA" stroke-width="1.7"/>
+<circle cx="401.175706" cy="717.913662" r="46.607197" fill="#408C85" fill-opacity="0.18" stroke="#408C85" stroke-width="1.7"/>
+<circle cx="401.175706" cy="97.913662" r="46.607197" fill="#408C85" fill-opacity="0.18" stroke="#408C85" stroke-width="1.7"/>
+<circle cx="157.290850" cy="716.563725" r="46.607197" fill="#408C85" fill-opacity="0.18" stroke="#408C85" stroke-width="1.7"/>
+<circle cx="157.290850" cy="96.563725" r="46.607197" fill="#408C85" fill-opacity="0.18" stroke="#408C85" stroke-width="1.7"/>
+<circle cx="36.699312" cy="146.150526" r="46.607197" fill="#408C85" fill-opacity="0.18" stroke="#408C85" stroke-width="1.7"/>
+<circle cx="521.414156" cy="146.150526" r="46.607197" fill="#408C85" fill-opacity="0.18" stroke="#408C85" stroke-width="1.7"/>
+<circle cx="157.774907" cy="456.273514" r="46.607197" fill="#408C85" fill-opacity="0.18" stroke="#408C85" stroke-width="1.7"/>
+<circle cx="36.352799" cy="407.942020" r="46.607197" fill="#408C85" fill-opacity="0.18" stroke="#408C85" stroke-width="1.7"/>
+<circle cx="521.067643" cy="407.942020" r="46.607197" fill="#408C85" fill-opacity="0.18" stroke="#408C85" stroke-width="1.7"/>
+<circle cx="280.273168" cy="145.009855" r="46.607197" fill="#408C85" fill-opacity="0.18" stroke="#408C85" stroke-width="1.7"/>
+<circle cx="279.392976" cy="406.590332" r="46.607197" fill="#408C85" fill-opacity="0.18" stroke="#408C85" stroke-width="1.7"/>
+<circle cx="399.366014" cy="456.069307" r="46.607197" fill="#408C85" fill-opacity="0.18" stroke="#408C85" stroke-width="1.7"/>
+<text x="279.0951" y="590.6844" font-size="12" text-anchor="middle" >3.5</text>
+<text x="521.4525" y="590.6844" font-size="12" text-anchor="middle" >3.5</text>
+<text x="400.2738" y="280.6844" font-size="12" text-anchor="middle" >3.5</text>
+<text x="157.9164" y="280.6844" font-size="12" text-anchor="middle" >3.5</text>
+<text x="401.1757" y="101.9137" font-size="12" text-anchor="middle" >1.5</text>
+<text x="157.2909" y="100.5637" font-size="12" text-anchor="middle" >1.5</text>
+<text x="521.4142" y="150.1505" font-size="12" text-anchor="middle" >1.5</text>
+<text x="157.7749" y="460.2735" font-size="12" text-anchor="middle" >1.5</text>
+<text x="521.0676" y="411.9420" font-size="12" text-anchor="middle" >1.5</text>
+<text x="280.2732" y="149.0099" font-size="12" text-anchor="middle" >1.5</text>
+<text x="279.3930" y="410.5903" font-size="12" text-anchor="middle" >1.5</text>
+<text x="399.3660" y="460.0693" font-size="12" text-anchor="middle" >1.5</text>
+</g>
+<rect x="74" y="88" width="484.714844" height="620.000000" fill="none" stroke="#253442" stroke-width="1.5"/>
+<path d="M 74.000000 708.000000 v 5 M 69 708.000000 h 5" stroke="#253442"/>
+<text x="74.0000" y="732.0000" font-size="13" text-anchor="middle" >0</text>
+<text x="62.0000" y="712.0000" font-size="13" text-anchor="end" >0</text>
+<path d="M 195.178711 708.000000 v 5 M 69 553.000000 h 5" stroke="#253442"/>
+<text x="195.1787" y="732.0000" font-size="13" text-anchor="middle" >1.95</text>
+<text x="62.0000" y="557.0000" font-size="13" text-anchor="end" >2.49</text>
+<path d="M 316.357422 708.000000 v 5 M 69 398.000000 h 5" stroke="#253442"/>
+<text x="316.3574" y="732.0000" font-size="13" text-anchor="middle" >3.9</text>
+<text x="62.0000" y="402.0000" font-size="13" text-anchor="end" >4.99</text>
+<path d="M 437.536133 708.000000 v 5 M 69 243.000000 h 5" stroke="#253442"/>
+<text x="437.5361" y="732.0000" font-size="13" text-anchor="middle" >5.85</text>
+<text x="62.0000" y="247.0000" font-size="13" text-anchor="end" >7.48</text>
+<path d="M 558.714844 708.000000 v 5 M 69 88.000000 h 5" stroke="#253442"/>
+<text x="558.7148" y="732.0000" font-size="13" text-anchor="middle" >7.8</text>
+<text x="62.0000" y="92.0000" font-size="13" text-anchor="end" >9.98</text>
+<text x="316.3574" y="758.0000" font-size="16" text-anchor="middle" >x (nm)</text>
+<text transform="translate(22,398.0000) rotate(-90)" text-anchor="middle" font-size="16">y (nm)</text>
+<text x="610.7148" y="96.0000" font-size="20" text-anchor="start" font-weight="bold">Layout summary</text>
+<text x="610.7148" y="130.0000" font-size="15" text-anchor="start" >Circles: 12</text>
+<text x="610.7148" y="158.0000" font-size="15" text-anchor="start" >Diameter kinds: 2 used / 6 allowed</text>
+<text x="610.7148" y="186.0000" font-size="15" text-anchor="start" >Cell: 7.8 x 9.977 nm</text>
+<text x="610.7148" y="214.0000" font-size="15" text-anchor="start" >Area fraction S: 67.6192%</text>
+<text x="610.7148" y="242.0000" font-size="15" text-anchor="start" >Total circle area: 52.6217 nm^2</text>
+<text x="610.7148" y="270.0000" font-size="15" text-anchor="start" >Required gap: 0.34 nm</text>
+<text x="610.7148" y="298.0000" font-size="15" text-anchor="start" >Min periodic gap: 0.351576 nm</text>
+<text x="610.7148" y="326.0000" font-size="15" text-anchor="start" >Geometry: PASS (tolerance 1e-7 nm)</text>
+<text x="610.7148" y="370.0000" font-size="17" text-anchor="start" font-weight="bold">Diameter (nm) / count</text>
+<circle cx="619.7148" cy="394.0000" r="7" fill="#46788E" fill-opacity="0.3" stroke="#46788E" stroke-width="1.5"/>
+<text x="638.7148" y="399.0000" font-size="15" text-anchor="start" >1 nm   x 0</text>
+<circle cx="619.7148" cy="422.0000" r="7" fill="#408C85" fill-opacity="0.3" stroke="#408C85" stroke-width="1.5"/>
+<text x="638.7148" y="427.0000" font-size="15" text-anchor="start" >1.5 nm   x 8</text>
+<circle cx="619.7148" cy="450.0000" r="7" fill="#6B8D50" fill-opacity="0.3" stroke="#6B8D50" stroke-width="1.5"/>
+<text x="638.7148" y="455.0000" font-size="15" text-anchor="start" >2 nm   x 0</text>
+<circle cx="619.7148" cy="478.0000" r="7" fill="#A49B33" fill-opacity="0.3" stroke="#A49B33" stroke-width="1.5"/>
+<text x="638.7148" y="483.0000" font-size="15" text-anchor="start" >2.5 nm   x 0</text>
+<circle cx="619.7148" cy="506.0000" r="7" fill="#D58C31" fill-opacity="0.3" stroke="#D58C31" stroke-width="1.5"/>
+<text x="638.7148" y="511.0000" font-size="15" text-anchor="start" >3 nm   x 0</text>
+<circle cx="619.7148" cy="534.0000" r="7" fill="#A373AA" fill-opacity="0.3" stroke="#A373AA" stroke-width="1.5"/>
+<text x="638.7148" y="539.0000" font-size="15" text-anchor="start" >3.5 nm   x 4</text>
+<text x="74.0000" y="791.0000" font-size="13" text-anchor="start" >Edge fragments are periodic images, not extra circles. Labels inside circles are diameters (nm).</text>
+<text x="74.0000" y="813.0000" font-size="13" text-anchor="start" >S uses nominal disk areas; gaps include self-images. No atomic structure or MD performance is implied.</text>
+</svg>

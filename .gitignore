@@ -1,0 +1,6 @@
+# 本地测试产物：每次搜索生成的 CSV / SVG / JSON，不入库
+/runs/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
