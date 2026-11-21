@@ -1,0 +1,56 @@
+{
+  "circle_count": 14,
+  "box_nm": [
+    9.7,
+    11.1
+  ],
+  "allowed_diameters_nm": [
+    1.0,
+    1.5,
+    2.0,
+    2.5,
+    3.0
+  ],
+  "used_diameter_kinds": 5,
+  "diameter_counts": [
+    {
+      "diameter_nm": 1.0,
+      "count": 2
+    },
+    {
+      "diameter_nm": 1.5,
+      "count": 1
+    },
+    {
+      "diameter_nm": 2.0,
+      "count": 2
+    },
+    {
+      "diameter_nm": 2.5,
+      "count": 2
+    },
+    {
+      "diameter_nm": 3.0,
+      "count": 7
+    }
+  ],
+  "circle_area_nm2": 68.91868883812609,
+  "box_area_nm2": 107.66999999999999,
+  "nominal_area_fraction_percent": 64.00918439502749,
+  "required_gap_nm": 0.34,
+  "minimum_intercircle_gap_nm": 0.3529037609904435,
+  "closest_intercircle_pair_ids": [
+    12,
+    14
+  ],
+  "minimum_self_image_gap_nm": 6.699999999999999,
+  "closest_self_image_circle_id": 1,
+  "minimum_periodic_gap_nm": 0.3529037609904435,
+  "geometry_tolerance_nm": 1e-07,
+  "geometry_check": "PASS_WITH_STATED_TOLERANCE",
+  "mode": "existing_csv",
+  "input_csv": "runs\\b_dmax3\\sweep\\hit_211.csv",
+  "input_sha256": "3126bccac72c102ba024faeb2dd22742e7b65c55a4e8fd3d563a29750fa3d4f1",
+  "seed": null,
+  "elapsed_seconds": 0.015562599990516901
+}
